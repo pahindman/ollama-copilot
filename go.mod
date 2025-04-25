@@ -1,6 +1,6 @@
 module github.com/bernardo-bruning/ollama-copilot
 
-go 1.22.2
+go 1.22
 
 require github.com/ollama/ollama v0.1.32
 
